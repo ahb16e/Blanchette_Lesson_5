@@ -4,7 +4,7 @@
 Web Application Development
 
 ### Assignment Date:  
-10-15-1998
+11-1-2018
 
 ### Student Name:  
 Alexander Blanchette
@@ -13,13 +13,12 @@ Alexander Blanchette
 Lesson 5 Currency Calculator
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ahb16e.github.io/Blanchette_Lesson_5/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Else if statements
+2. proper syntax for document.getElementById('currencyExchangeInfo').....
+3. use of the return statement.
 
 # Blanchette_Lesson_5
 # Blanchette_Lesson_5
